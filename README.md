@@ -2,8 +2,7 @@
 
 A controlled experiment on how many saved old examples a neural network needs to stop forgetting an old task, and whether that number depends on how different the new task is.
 
-**Author:** [Your Name] · **Date:** October 2026 · **Paper:** [link to PDF]
-
+**Author:** Arnesh Dheeman Saha · **Date:** October 2026 
 ---
 
 ## Key finding
